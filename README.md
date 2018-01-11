@@ -1,29 +1,22 @@
 # Algorism-BaekJoon
 
 ## 푼 문제
->> *(time over)은 제한 시간에 문제를 풀지 못 해, 다른 사람의 풀이를 참고해서 푼 문제라는 뜻.
 
 > 1021
 
 > 1463
 
-> 1654 (time over)
 
 > 1850
 
 > 2217
 
-> 2225 (time over)
-
-> 2579 (time over)
 
 > 2751
 
-> 2938 (time over)
 
 > 7576
 
-> 9935 (time over)
 
 > 11650
 
@@ -32,6 +25,20 @@
 > 14502
 
 > 15351
+
+### Time Over
+>> *(time over)은 제한 시간에 문제를 풀지 못 해, 다른 사람의 풀이를 참고해서 푼 문제라는 뜻.
+>> Solve this problems again later
+
+> 1654 (time over)
+
+> 2225 (time over)
+
+> 2579 (time over)
+
+> 2938 (time over)
+
+> 9935 (time over)
 
 
 ## 풀지 못한 문제
