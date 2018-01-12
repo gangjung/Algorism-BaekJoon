@@ -42,7 +42,8 @@
 > 2938 (time over)
 >
 > 9935 (time over)
-
+>
+> 9663 (time over)
 
 ## 풀지 못한 문제
 > 1405
