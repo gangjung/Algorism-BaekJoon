@@ -39,6 +39,8 @@
 >>
 >> Solve this problems again later
 
+> 1309 (time over) - 30분 뒤, 문제 분류가 DP라는 것을 보고 점화식을 생각해 냄
+> 
 > 1654 (time over)
 >
 > 2225 (time over)
