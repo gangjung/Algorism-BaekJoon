@@ -41,9 +41,13 @@
 >>
 >> Solve this problems again later
 
+> 1260 (time over) - DFS, BFS 개념 다시 숙지함
+>
 > 1309 (time over) - 30분 뒤, 문제 분류가 DP라는 것을 보고 점화식을 생각해 냄
 > 
 > 1654 (time over)
+>
+> 1753 (time over) - 다익스트라 알고리즘 정리할 것!
 >
 > 2225 (time over)
 >
