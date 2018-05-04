@@ -41,9 +41,11 @@
 > 15351
 
 ### Time Over
->> *(time over)은 제한 시간에 문제를 풀지 못 해, 다른 사람의 풀이를 참고해서 푼 문제라는 뜻.
->>
->> Solve this problems again later
+>    ````
+> *(time over)은 제한 시간에 문제를 풀지 못 해, 다른 사람의 풀이를 참고해서 푼 문제라는 뜻.
+>
+> Solve this problems again later
+>    ````
 
 > 1260 (time over) - DFS, BFS 개념 다시 숙지함
 >
